@@ -4,7 +4,7 @@
 
 ###This plugin allows you to include your own language in Jomres, if it's not one of the 37 languages currently supported in Jomres Core.
 
-This is a Jomres specific plugin, which means that it is CMS agnostic so any translations that work in Joomla will also work in Wordpress.
+This is a Jomres specific plugin, which means that it is CMS agnostic so any translations that work in Joomla will also work in Wordpress. To install it please use the Jomres Plugin Manager 3rd party plugin installer.
 
 When creating your own language plugin for Jomres, first you would need to set up the host CMS with the appropriate language, for example Albanian. Once you have done that, you need to modify the j07090xxx.class.php file to indicate the new language you are adding.
 
